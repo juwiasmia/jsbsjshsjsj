@@ -6,6 +6,8 @@
 <h50>104.248.147.84</h50> 
 <!-- wega aws triall --> 
 <h50>13.228.70.212</h50>
+<!-- wega aws triall arm--> 
+<h50>18.141.183.76</h50>
 <!-- wega do oprek --> 
 <h50>128.199.123.136</h50>
 <!-- wega do2 oprek --> 
