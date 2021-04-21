@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
-<!-- unyil --> 
-<h50>45.84.58.253</h50>
 <!-- wega idroot--> 
 <h50>103.227.254.107</h50>
 <!-- wega do -->
