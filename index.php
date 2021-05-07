@@ -48,10 +48,14 @@
 <h50>167.99.79.153</h50>
 <!-- kang malaysia2 --> 
 <h50>165.22.100.44</h50>
-<!-- killerssh --> 
+<!-- killerssh/hanif --> 
 <h50>103.227.253.194</h50>
-<!-- killerssh2--> 
+<!-- killerssh/hanif2--> 
 <h50>45.84.58.151</h50>
+<!-- killerssh/hanif3 --> 
+<h50>103.136.18.183</h50>
+<!-- killerssh/hanif4--> 
+<h50>178.239.55.104</h50>
 <!-- sshsedang --> 
 <h50>103.55.36.249</h50>
 <!-- adip 2--> 
