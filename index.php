@@ -94,7 +94,7 @@
 <!-- aldy suryana rohman6 -->
 <h50>54.179.98.134</h50>
 <!-- aldy suryana rohman7 -->
-<h50>103.227.253.181</h50>
+<h50>103.227.253.145</h50>
 <!-- aldy suryana rohman8 -->
 <h50>18.141.209.171</h50>
 <!-- gas 1jt --> 
