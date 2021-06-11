@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+<!-- wega baru--> 
+<h50>103.157.26.245</h50>
 <!-- wega idroot--> 
 <h50>103.227.253.152</h50>
 <!-- wega aws --> 
