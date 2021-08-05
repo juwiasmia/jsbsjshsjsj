@@ -32,8 +32,10 @@
 <h50>178.128.220.11</h50>
 <!-- kang malaysia --> 
 <h50>167.99.79.153</h50>
-<!-- killerssh/hanif6--> 
+<!-- @hanifwidiwidodo--> 
 <h50>3.0.129.180</h50>
+<!-- @hanifwidiwidodo--> 
+<h50>103.161.184.64</h50>
 <!-- haidityara 2--> 
 <!-- andra as--> 
 <h50>167.71.208.114</h50>
