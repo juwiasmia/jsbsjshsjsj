@@ -49,6 +49,10 @@
 <h50>165.232.172.11</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 19-09-2021--> 
 <h50>13.213.9.18</h50>
+<!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
+<h50>18.142.119.235</h50>
+<!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
+<h50>18.138.225.147</h50>
 <!-- inex4--> 
 <h50>3.0.135.177</h50>
 <!-- inex6--> 
