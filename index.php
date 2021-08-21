@@ -10,8 +10,10 @@
 <h50>103.31.39.133</h50>
 <!-- webssh aws ub--> 
 <h50>54.151.143.48</h50>
-<!-- webssh dewa deb--> 
+<!-- webssh dewa ub--> 
 <h50>103.147.32.13</h50>
+<!-- webssh dewa2 ub--> 
+<h50>103.147.32.64</h50>
 <!-- wega aws deb--> 
 <h50>54.254.177.221</h50>
 <!-- wega aws ub--> 
