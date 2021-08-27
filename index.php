@@ -51,16 +51,16 @@
 <h50>167.71.208.114</h50>
 <!-- @AxxxR572 --> 
 <h50>165.232.172.11</h50>
-<!--buy vps aws @AxxxR573 expired tanggal 19-09-2021--> 
-<h50>13.213.9.18</h50>
+<!--buy vps aws @AxxxR573 expired tanggal 24-09-2021--> 
+<h50>13.250.64.139</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
 <h50>18.142.119.235</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
 <h50>18.138.225.147</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
-<h50>18.139.161.114</h50>
+<h50>18.138.251.182</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
-<h50>54.254.140.203</h50>
+<h50>18.141.145.141</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
 <h50>13.250.127.203</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
@@ -346,8 +346,6 @@
 <h50>103.227.254.104</h50>
 <!-- @kangachmad5 -->
 <h50>103.227.253.207</h50>
-<!-- @ZidanFlanks expired tanggal 27-08-2021 -->
-<h50>54.251.163.163</h50>
 <!-- @Mamazinul -->
 <h50>103.101.3.147</h50>
 <!-- @Mamazinul 2-->
