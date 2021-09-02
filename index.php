@@ -56,7 +56,7 @@
 <!-- @AxxxR574 --> 
 <h50>209.141.52.215</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 24-09-2021--> 
-<h50>13.250.64.139</h50>
+<h50>13.250.64.139 suspen</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
 <h50>18.142.119.235</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
@@ -64,11 +64,11 @@
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
 <h50>18.138.251.182</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
-<h50>18.141.145.141</h50>
+<h50>18.141.145.141 suspen</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
-<h50>13.250.127.203</h50>
+<h50>13.250.127.203 suspen</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
-<h50>13.212.191.140</h50>
+<h50>13.212.191.140 suspen</h50>
 <!-- inex4--> 
 <h50>3.0.135.177</h50>
 <!-- inex6--> 
@@ -246,6 +246,8 @@
 <h50>103.31.251.234</h50>
 <!-- @okta12d 4--> 
 <h50>103.157.116.10</h50>
+<!-- @okta12d 5--> 
+<h50>202.145.2.111</h50>
 <!-- @Racelife88 --> 
 <h50>94.237.73.91</h50>
 <!-- @ch3cKRain --> 
