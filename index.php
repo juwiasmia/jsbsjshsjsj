@@ -59,8 +59,8 @@
 <h50>51.79.145.142</h50>
 <!-- @AxxxR574 --> 
 <h50>209.141.52.215</h50>
-<!--buy vps aws @AxxxR573 expired tanggal 24-09-2021--> 
-<h50>13.250.64.139 suspen 1-09</h50>
+<!--buy vps aws @AxxxR573 expired tanggal 07-10-2021--> 
+<h50>18.142.138.83</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
 <h50>18.142.119.235</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
@@ -412,8 +412,6 @@
 <h50>43.229.254.143</h50>
 <!-- @idipv6 6--> 
 <h50>43.229.254.168</h50>
-<!-- @idipv6 expired tanggal 12-09-2021 -->
-<h50>18.142.138.83</h50>
 <!-- @idipv6 7--> 
 <h50>103.219.251.154</h50>
 <!-- @idipv6 8--> 
