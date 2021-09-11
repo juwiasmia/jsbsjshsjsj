@@ -68,11 +68,11 @@
 <!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
 <h50>18.138.251.182</h50>
 <!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>18.141.145.141 suspen 1-09</h50>
+<h50>18.141.145.141 5hr suspen 1-09</h50>
 <!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>13.250.127.203 suspen 1-09</h50>
+<h50>13.250.127.203 5hr suspen 1-09</h50>
 <!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>13.212.191.140 suspen 1-09</h50>
+<h50>13.212.191.140 5hr suspen 1-09</h50>
 <!-- inex4--> 
 <h50>3.0.135.177</h50>
 <!-- inex6--> 
@@ -308,6 +308,8 @@
 <h50>14.102.146.158</h50>
 <!-- @mohdkamarulhafez 7-->
 <h50>139.162.59.45</h50>
+<!-- @mohdkamarulhafez 8-->
+<h50>94.237.3.70</h50>
 <!-- @royn628 -->
 <h50>118.107.242.46</h50>
 <!-- @royn628 2-->
