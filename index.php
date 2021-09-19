@@ -51,6 +51,8 @@
 <h50>209.141.52.215</h50>
 <!-- @AxxxR575 --> 
 <h50>118.107.208.97</h50>
+<!-- @AxxxR576 --> 
+<h50>35.213.182.6</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 07-10-2021--> 
 <h50>18.142.138.83</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
