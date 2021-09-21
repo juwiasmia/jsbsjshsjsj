@@ -57,11 +57,7 @@
 <h50>35.213.182.6</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 07-10-2021--> 
 <h50>18.142.138.83</h50>
-<!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
-<h50>18.142.119.235</h50>
-<!--buy vps aws @AxxxR573 expired tanggal 19-09-2021-->
-<h50>18.138.225.147</h50>
-<!--buy vps aws @AxxxR573 expired tanggal 21-09-2021-->
+<!--buy vps aws @AxxxR573 expired tanggal 27-09-2021-->
 <h50>18.138.251.182</h50>
 <!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
 <h50>18.141.145.141 5hr suspen 1-09</h50>
