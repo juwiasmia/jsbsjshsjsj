@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<!-- wega idroot2--> 54.169.174.0
+<!-- wega idroot2-->
 <h50>103.227.252.142</h50>
 <!-- webssh idch ub--> 
 <h50>27.112.79.39</h50>
