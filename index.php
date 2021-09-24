@@ -54,15 +54,15 @@
 <!-- @AxxxR578 --> 
 <h50>103.21.182.114</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 07-10-2021--> 
-<h50>18.142.138.83</h50>
+<h50>18.142.138.83 suspen 23-09-2021</h50>
 <!--buy vps aws @AxxxR573 expired tanggal 27-09-2021-->
-<h50>18.138.251.182</h50>
+<h50>18.138.251.182 suspen 23-09-2021</h50>
 <!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>18.141.145.141 5hr suspen 1-09</h50>
+<h50>18.141.145.141 5hr suspen 1-09-2021</h50>
 <!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>13.250.127.203 5hr suspen 1-09</h50>
+<h50>13.250.127.203 5hr suspen 1-09-2021</h50>
 <!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>13.212.191.140 5hr suspen 1-09</h50>
+<h50>13.212.191.140 5hr suspen 1-09-2021</h50>
 <!-- inex4--> 
 <h50>3.0.135.177</h50>
 <!-- inex6--> 
@@ -71,8 +71,8 @@
 <h50>103.147.32.71</h50>
 <!-- inex8--> 
 <h50>103.136.19.57</h50>
-<!-- buy vps aws inex expired tanggal 01-10-2021 -->
-<h50>3.0.146.196</h50>
+<!-- inex9-->
+<h50>54.179.147.224</h50>
 <!-- enda subarki 2--> 
 <!-- rizal --> 
 <h50>103.89.2.28</h50>
