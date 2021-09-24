@@ -2,6 +2,8 @@
 <html>
 <!-- wega idroot2-->
 <h50>103.227.252.142</h50>
+<!-- webssh donasi-->
+<h50>64.235.61.99</h50>
 <!-- webssh idch2 deb--> 
 <h50>103.214.112.35</h50>
 <!-- webssh dewa ub--> 
