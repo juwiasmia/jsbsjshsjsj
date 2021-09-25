@@ -4,6 +4,8 @@
 <h50>103.227.252.142</h50>
 <!-- webssh donasi-->
 <h50>64.235.61.153</h50>
+<!-- webssh rajasa1 deb-->
+<h50>103.227.253.195</h50>
 <!-- webssh idch2 deb--> 
 <h50>103.214.112.35</h50>
 <!-- webssh dewa ub--> 
