@@ -2,6 +2,10 @@
 <html>
 <!-- wega idroot2-->
 <h50>103.227.252.142</h50>
+<!-- webssh aws1-->
+<h50>13.213.5.14</h50>
+<!-- webssh aws2-->
+<h50>13.213.5.0</h50>
 <!-- webssh do1-->
 <h50>206.189.84.160</h50>
 <!-- webssh do2-->
@@ -97,16 +101,10 @@
 <h50>35.213.182.6</h50>
 <!-- @AxxxR578 --> 
 <h50>103.21.182.114</h50>
-<!--buy vps aws @AxxxR573 expired tanggal 07-10-2021--> 
-<h50>18.142.138.83 suspen 23-09-2021</h50>
-<!--buy vps aws @AxxxR573 expired tanggal 27-09-2021-->
-<h50>18.138.251.182 suspen 23-09-2021</h50>
-<!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>18.141.145.141 5hr suspen 1-09-2021</h50>
-<!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>13.250.127.203 5hr suspen 1-09-2021</h50>
-<!--buy vps aws @AxxxR573 create 27-08-2021 expired tanggal 21-09-2021-->
-<h50>13.212.191.140 5hr suspen 1-09-2021</h50>
+<!--buy vps aws @AxxxR573 16-10-2021 expired tanggal 16-11-2021--> 
+<h50>13.229.85.178</h50>
+<!--buy vps aws @AxxxR573 16-10-2021 expired tanggal 16-11-2021-->
+<h50>54.169.152.79</h50>
 <!-- inex4--> 
 <h50>3.0.135.177</h50>
 <!-- inex6--> 
